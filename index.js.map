@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","sources":[],"sourcesContent":[],"names":[],"mappings":""}
+{"version":3,"file":"index.js","sources":["../src/js/about-me.js","../src/js/main.js"],"sourcesContent":["export const a = 2;","import * as about from './about-me.js';\nconsole.log(about.a);\n"],"names":["a","about.a"],"mappings":"ssBAAO,MAAMA,EAAI,ECCjB,QAAQ,IAAIC,CAAO"}
